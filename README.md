@@ -9,7 +9,7 @@ Use ESP32/ESP8266 to Control Klipper printers
 # Features 
 
 - [x] Support on most wifi/ethernet boards 
-- [ ] Factory Mode 
+- [ ] Factory Mode :factory:
 - [ ] MCU support 
 - [ ] Klipper Style config 
 
